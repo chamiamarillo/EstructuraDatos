@@ -11,7 +11,15 @@ public class Ejercicio9{
     int contador=0;
     for (contador=0;contador<valorIngresado;contador++){
       System.out.println("Ingrese el numero "+contador);
-      carga=carga+teclado.nextDouble(); // con esto teclado.nextDouble() directamente sumo lo que ingresa por teclado   
+      carga=teclado.nextDouble(); // con esto teclado.nextDouble() directamente sumo lo que ingresa por teclado   
+      minimo
+      maximo
+      promedio=promedio+carga;
+      if (
+    
+    
+    
+    
     }
    // System.out.println("La suma de de los numeros es " + resultado);
   }
