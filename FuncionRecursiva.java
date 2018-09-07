@@ -1,13 +1,14 @@
 import java.util.*;
 
-public class Ejercicio1{
+public class FuncionRecursiva{
   public static void main (String[] args){
     // para leer por teclado
     Scanner teclado=new Scanner(System.in);
-    int valorIngresado=teclado.nextInt();
+    long valorIngresado=teclado.nextLong();
     // hasta aca
-    int resultado=valorIngresado * 2;
-    System.out.println ("El doble del numero es " + resultado);
+    //long resultado=valorIngresado * 2;
+   // System.out.println ("El doble del numero es " + resultado);
+    System.out.println (factorial(valorIngresado));
      
   }
   

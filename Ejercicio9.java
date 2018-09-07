@@ -31,3 +31,4 @@ public class Ejercicio9{
    System.out.println("EL PROMEDIO ES: " + (promedio/valorIngresado));
   }
 }
+

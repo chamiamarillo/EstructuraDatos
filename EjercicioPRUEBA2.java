@@ -20,4 +20,6 @@ public class EjercicioPRUEBA2{
     cumple.mes=05;
     cumple.anio=1969;
   }
+   
+
 }
